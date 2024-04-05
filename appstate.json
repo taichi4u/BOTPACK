@@ -1,9 +1,128 @@
-hello: "hello world"
-
-}
-The appstate.json file is used to store the app state.
-The appstate.json file is created automatically when you run the bot for the first time.
-The appstate.json file is located in the same folder as the main file.
-The appstate.json file is automatically updated when you run the bot.
-The appstate.json file is not tracked by Git.
-Note: The appstate.json file is not included in the repository.
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261557300917233%22%3A%22TM5NBVO8%22%2C%22100083258138749%22%3A%22HkE8gzfb%22%2C%22100087612007246%22%3A%22FhNFxYYp%22%2C%22100084875058689%22%3A%22cTw1JcnR%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "datr",
+        "value": "whgMZviWj5V0-lz46RiPPnG8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "sb",
+        "value": "whgMZirRTX9qnFUYm_hRQnuk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B748x384x2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.8125",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "wd",
+        "value": "384x748",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "fr",
+        "value": "0t3UcH0qMsVuwAXZH.AWVZ6DdxK0P9suzeyRnpecFPZaM.BmDBjC..AAA.0.0.BmEEEY.AWVKC9wIth4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100088867517912",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "xs",
+        "value": "29%3A4zHoVE3KieqCfA%3A2%3A1712341272%3A-1%3A13449",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2458%3Btimestamp%3A1712341274",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "100088867517912",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-04-05T18:21:21.661Z",
+        "lastAccessed": "2024-04-05T18:21:21.661Z"
+    }
+]
